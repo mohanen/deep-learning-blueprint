@@ -22,7 +22,8 @@ A checklist of concepts and models to implement.
       - [ ] Dilated (Atrous) Convolution
       - [ ] Depthwise Separable Convolution
       - [ ] Deformable Convolution
-  - [ ] **Attention Mechanisms (beyond basic self-attention)**
+  - [x] **Attention Mechanisms (beyond basic self-attention)**
+      - [x] **Self-Attention**: Multi-head attention mechanism with causal masking
       - [ ] Cross-Attention
       - [ ] FlashAttention (I/O-aware implementation)
       - [ ] Sparse/Linear Attention (e.g., in Longformer, Performer)
@@ -47,6 +48,10 @@ A checklist of concepts and models to implement.
 
 ### 💬 Advanced NLP & Large Language Models
 
+  - [x] **Core Transformer & GPT Implementation**
+      - [x] **[SimpleGPT](SimpleGPT.ipynb)**: Complete GPT implementation from scratch with multi-head attention, transformer blocks, and autoregressive text generation
+      - [x] **[Multi-Head Attention](SimpleGPT.ipynb#multi-head-attention)**: Self-attention mechanism with causal masking (implemented from scratch)
+      - [x] **[Transformer Architecture](SimpleGPT.ipynb#transformer-blocks)**: Positional embeddings, transformer blocks, feed-forward networks (implemented from scratch)
   - [ ] **Efficient Transformers**
       - [ ] Longformer / BigBird
       - [ ] Reformer
