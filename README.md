@@ -11,7 +11,7 @@ A checklist of concepts and models to implement.
 
   - [ ] **Normalization Layers**
       - [x] Batch Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#BatchNorm))
-      - [ ] Layer Normalization
+      - [x] Layer Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#LayerNorm))
       - [ ] Instance Normalization
       - [ ] Group Normalization
   - [ ] **Advanced Activation Functions**
