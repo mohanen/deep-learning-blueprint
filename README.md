@@ -9,7 +9,8 @@ A checklist of concepts and models to implement.
 
 ### 🧠 Core Architectural Concepts & Building Blocks
 
-  - [ ] **Advanced Normalization Layers**
+  - [ ] **Normalization Layers**
+      - [x] Batch Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#BatchNorm))
       - [ ] Layer Normalization
       - [ ] Instance Normalization
       - [ ] Group Normalization
