@@ -15,7 +15,7 @@ A checklist of concepts and models to implement.
       - [x] Instance Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#InstanceNorm))
       - [x] Group Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#GroupNorm))
   - [ ] **Activation Functions**
-      - [x] **ReLU Variants**: Leaky ReLU, Parametric ReLU (PReLU), Exponential Linear Unit (ELU)
+      - [x] **ReLU Variants**: Leaky ReLU, Parametric ReLU (PReLU), Exponential Linear Unit (ELU) ([ActivationFunctions.ipynb](ActivationFunctions.ipynb#ReLU))
       - [ ] **Gated Activations**: Gated Linear Unit (GLU), SwiGLU, GeGLU
       - [ ] **Advanced**: GELU (Gaussian Error Linear Unit), Swish / SiLU, Mish
       - [ ] **Efficient**: Hard Sigmoid, Hard Swish
