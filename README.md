@@ -9,17 +9,17 @@ A checklist of concepts and models to implement.
 
 ### 🧠 Core Architectural Concepts & Building Blocks
 
-  - [ ] **Normalization Layers**
+  - [x] **Normalization Layers**
       - [x] Batch Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#BatchNorm))
       - [x] Layer Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#LayerNorm))
       - [x] Instance Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#InstanceNorm))
       - [x] Group Normalization : ([NormalizationLayers.ipynb](NormalizationLayers.ipynb#GroupNorm))
-  - [ ] **Advanced Activation Functions**
-      - [ ] **ReLU Variants**: Leaky ReLU, Parametric ReLU (PReLU), Exponential Linear Unit (ELU)
+  - [ ] **Activation Functions**
+      - [x] **ReLU Variants**: Leaky ReLU, Parametric ReLU (PReLU), Exponential Linear Unit (ELU)
       - [ ] **Gated Activations**: Gated Linear Unit (GLU), SwiGLU, GeGLU
       - [ ] **Advanced**: GELU (Gaussian Error Linear Unit), Swish / SiLU, Mish
       - [ ] **Efficient**: Hard Sigmoid, Hard Swish
-  - [ ] **Advanced Convolutional Variants**
+  - [ ] **Convolutional Variants**
       - [ ] Dilated (Atrous) Convolution
       - [ ] Depthwise Separable Convolution
       - [ ] Deformable Convolution
