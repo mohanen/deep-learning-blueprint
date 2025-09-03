@@ -17,7 +17,7 @@ A checklist of concepts and models to implement.
   - [ ] **Activation Functions**
       - [x] **ReLU Variants**: Leaky ReLU, Parametric ReLU (PReLU), Exponential Linear Unit (ELU) ([ActivationFunctions.ipynb](ActivationFunctions.ipynb#ReLU))
       - [ ] **Gated Activations**: Gated Linear Unit (GLU), SwiGLU, GeGLU
-      - [ ] **Advanced**: GELU (Gaussian Error Linear Unit), Swish / SiLU, Mish
+      - [x] **Advanced**: GELU (Gaussian Error Linear Unit), Swish / SiLU, Mish ([ActivationFunctions.ipynb](ActivationFunctions.ipynb))
       - [ ] **Efficient**: Hard Sigmoid, Hard Swish
   - [ ] **Convolutional Variants**
       - [ ] Dilated (Atrous) Convolution
